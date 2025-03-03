@@ -1,0 +1,50 @@
+/* VisitsList.css */
+
+.visits-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.visits-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.visits-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.visits-table th, .visits-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.visits-table th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.visits-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.visits-table tr:hover {
+  background-color: #ddd;
+}
+
+.visits-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}

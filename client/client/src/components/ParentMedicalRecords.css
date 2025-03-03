@@ -1,0 +1,19 @@
+/* src/components/ParentMedicalRecords.css */
+.table-container {
+    padding: 20px;
+  }
+  
+  .medical-records-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .medical-records-table th, .medical-records-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .medical-records-table th {
+    background-color: #f2f2f2;
+  }
+  

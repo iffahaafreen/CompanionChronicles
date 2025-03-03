@@ -1,0 +1,39 @@
+/* LandingPage.css */
+
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #fff;
+}
+
+.logo {
+  width: 500px; /* Adjust the width as needed */
+  height: auto;
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  width: 100px; /* Adjust the width as needed */
+}
+
+.button:hover {
+  background-color: #45a049;
+}

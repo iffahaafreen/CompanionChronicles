@@ -1,0 +1,56 @@
+/* MedicalRecordsList.css */
+
+.medical-records-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.medical-records-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.medical-records-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.medical-records-table th, .medical-records-table td {
+  border: 1px solid #ddd;
+  padding: 10px;  /* Adjusted padding for consistency */
+  text-align: left;
+}
+
+.medical-records-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.medical-records-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.medical-records-table tr:hover {
+  background-color: #ddd;
+}
+
+.medical-records-table ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.medical-records-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}

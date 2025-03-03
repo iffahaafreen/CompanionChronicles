@@ -1,0 +1,32 @@
+.pet-profile {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.pet-details {
+  margin-bottom: 20px;
+}
+
+.floating-panels {
+  display: flex;
+  justify-content: space-between;
+}
+
+.panel {
+  flex: 1;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #4CAF50;
+  text-decoration: none;
+  color: #fff;
+}
+
+.panel h3 {
+  margin: 0;
+}

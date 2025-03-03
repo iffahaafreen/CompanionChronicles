@@ -1,0 +1,19 @@
+/* src/components/ParentVisits.css */
+.table-container {
+    padding: 20px;
+  }
+  
+  .visit-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .visit-table th, .visit-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .visit-table th {
+    background-color: #f2f2f2;
+  }
+  

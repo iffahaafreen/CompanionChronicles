@@ -1,0 +1,42 @@
+.visits-container {
+    padding: 20px;
+  }
+  
+  .visits-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .visits-table th, .visits-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .visits-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .edit-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .edit-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .edit-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  

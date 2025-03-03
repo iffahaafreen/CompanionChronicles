@@ -1,0 +1,19 @@
+/* src/components/ParentVaccinations.css */
+.table-container {
+    padding: 20px;
+  }
+  
+  .vaccination-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .vaccination-table th, .vaccination-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .vaccination-table th {
+    background-color: #f2f2f2;
+  }
+  
