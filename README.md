@@ -20,8 +20,6 @@ CompanionChronicles is a database management system (DBMS) project designed to s
 ## Features
 
 - **Patient Management**: Maintain detailed records of animal patients, including medical history and treatment plans.
-- **Appointment Scheduling**: Efficiently schedule, view, and manage appointments between veterinarians and pet owners.
-- **Inventory Tracking**: Monitor medical supplies and medications to ensure timely restocking.
 - **User Authentication**: Secure login and registration for veterinarians and staff.
 - **Responsive Design**: Accessible on various devices, ensuring usability across platforms.
 
