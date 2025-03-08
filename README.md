@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Team Memebers](#team-members)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -16,6 +17,14 @@
 ## Introduction
 
 CompanionChronicles is a database management system (DBMS) project designed to streamline operations within a veterinary domain. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this application offers a comprehensive solution for managing veterinary services, patient records, appointments, and more.
+
+## Team Members   
+This project was developed as a collaborative effort by: 
+- **[Iffah Aafreen](https://github.com/iffahaafreen)**  
+- **[Aesha ](https://github.com/aeshapatel123)**  
+- **[Nidhi Kulkarni](https://github.com/NidhiK21)**
+
+We worked together to build this project, contributing across different areas of development.
 
 ## Features
 
